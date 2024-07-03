@@ -46,6 +46,15 @@
         <scope>runtime</scope>
     </dependency>
 
+    <!--spring dependencies-->
+
+
+    <dependency>
+    <groupId>io.springfox</groupId>
+    <artifactId>springfox-boot-starter</artifactId>
+    <version>3.0.0</version>
+    </dependency>
+
     <!-- Add these test dependencies -->
     <dependency>
         <groupId>org.springframework.boot</groupId>
