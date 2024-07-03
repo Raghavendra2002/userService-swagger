@@ -45,6 +45,9 @@
         <artifactId>h2</artifactId>
         <scope>runtime</scope>
     </dependency>
+     <!--swagger dependencies-->
+
+    
 
     <!-- Add these test dependencies -->
     <dependency>
